@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sserugo Benedict - Bein Panda Ug</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+
+        header {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Sserugo Benedict</h1>
+        <p>Aspiring Musician, Helper, Motivational Speaker</p>
+        <p>Stage Name: Bein Panda Ug</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>I am an ambitious young soul with a passion for music, helping others, and motivating people to achieve their goals. My stage name is Bein Panda Ug, and I strive to make a positive impact in all sectors of the world.</p>
+    </section>
+
+    <!-- Add more sections as needed, e.g., Music, Motivational Speaking, etc. -->
+
+    <footer>
+        <p>Contact me at: Victapandaug@email.com</p>
+    </footer>
+</body>
+
+</html>
+
